@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ally :)
 
 <!--
 **allyzwy/allyzwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a third-year Computer Science student at McGill University, passionate about building impactful solutions through my codes. 
+My current areas of interest include full-stack development, web development, and learning and working more with AI tools. <br />
+Feel free to check out my [LinkedIn](https://www.linkedin.com/in/ally-zhang-847227231/) for more information about me! 
+
+<br/>**My Work Experience**: <br/>
+- Operational Technology Intern at CN (Montreal, QC) - Summer 2023
