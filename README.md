@@ -20,4 +20,7 @@ My current areas of interest include full-stack development, web development, an
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/ally-zhang-847227231/) for more information about me! 
 
 <br/>**My Work Experience**: <br/>
-- Operational Technology Intern at CN (Montreal, QC) - Summer 2023
+- SWE Intern at CN (Montreal, QC) - Summer 2023
+    - This experience allowed me to apply my academic knowledge to a professional-level project all while learning new tools such as Microsoft Power BI. I got to work in a team that employed agile methodology, which allowed me to get used to the software development cycle of projects and products. 
+- Critical Systems Analyst Intern at CN (Montreal, QC) - Summer 2023
+    - I believe that, apart from focusing on the work in front of us, it is beneficial to sometimes take a step back to have a broader view of the things that we are working on, learning about stakeholders' needs, and helping them solve their problems. This role allowed me to get in contact with end-users and listen to their inquiries. 
